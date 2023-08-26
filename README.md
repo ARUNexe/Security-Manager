@@ -28,3 +28,8 @@ Disable USB -
 # Executable File instructions:
   - Disable antivirus before downloading the exe file.
   - Run the exe file as administrator.
+
+
+# Redo function:
+  - For testing purpose i added a redo function so that i dont need to manually revert the changes the script did
+  - I thought i might add that too. 
