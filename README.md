@@ -8,7 +8,7 @@ Security manager that implements specific security measures on a Windows 10 oper
 - This python script uses winreg library to modify Windows registry values.
 
 # Modules 
-Disable USB - 
+#### Disable USB - 
   - This module disables all external usb removable devices so that it cant be connected to the system.
   - This module works by changing the registry in file HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\UsbStor\Start value from 3 to 4 which disables usb devices.
 
