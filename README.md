@@ -1,7 +1,4 @@
 
-# Security-Manager
-Security manager that implements specific security measures on a Windows 10 operating system
-
 # Introduction
 - Security manager that implements specific security measures on a Windows 10 operating system.
 - All the modules works by changing system values.
